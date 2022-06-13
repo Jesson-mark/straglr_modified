@@ -1,5 +1,4 @@
 # straglr_modified
-Modified Straglr
 
 Two modifications: 
 
